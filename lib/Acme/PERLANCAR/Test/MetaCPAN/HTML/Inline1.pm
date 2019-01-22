@@ -24,7 +24,7 @@ package Acme::PERLANCAR::Test::MetaCPAN::HTML::Inline1;
 
 =begin html
 
-<pre class="line-numbers">line 1
+<pre id="source" class="line-numbers">line 1
 line 2
 line 3
 </pre>
