@@ -20,6 +20,8 @@ package Acme::PERLANCAR::Test::MetaCPAN::HTML::Inline1;
 
 =for html <div class=one> inside div2 </div>
 
+=for html <p style="color: red">A red paragraph</p>
+
 =for html <pre class="line-numbers">foo</pre>
 
 =begin html
