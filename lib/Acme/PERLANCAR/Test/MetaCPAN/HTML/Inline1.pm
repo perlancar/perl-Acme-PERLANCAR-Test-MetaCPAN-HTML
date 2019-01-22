@@ -39,6 +39,9 @@ Tables allowed.
 
 HTML comments stripped.
 
-<script>, <style> stripped.
+<script>, <style> stripped. C<style> attribute also stripped, so you are not
+allowed to define styles.
 
 <div> allowed but attributes stripped.
+
+C<class> attribute not stripped, but C<id> attribute stripped.
